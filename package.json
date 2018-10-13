@@ -1,0 +1,14 @@
+{
+  "name": "l08ahandson",
+  "version": "1.0.0",
+  "description": "L08aHandson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "donnal",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.0"
+  }
+}
